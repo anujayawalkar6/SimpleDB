@@ -1,0 +1,9 @@
+This Zip file contains the following -
+
+1. Project Report titled-
+
+ayawalk_mgawand_sshekha3_aarahman.pdf
+
+2. MySimpleDB.zip-
+
+Contains the entire code- client and server both
